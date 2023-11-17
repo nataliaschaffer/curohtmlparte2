@@ -1,2 +1,2 @@
-# curohtmlparte2
+# cursohtmlparte2
 arquivos do curso
